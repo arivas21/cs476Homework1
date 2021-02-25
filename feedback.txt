@@ -1,0 +1,5 @@
+Hi Angelica,
+Unfortunately, you have not implemented any requirements for homework 1 and you did not even follow the naming convention for your repo. You receive 0.2% for creating a basic scala project and submitting it.
+
+Thank you,
+Mark
